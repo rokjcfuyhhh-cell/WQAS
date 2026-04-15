@@ -1,0 +1,1 @@
+Terwek tarafından geliştirilen bağımsız platformu projesinin çekirdek modülüdür
